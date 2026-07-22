@@ -70,6 +70,6 @@ Support inventory planning and marketing decisions.
 Enable faster, data-driven business decisions.
 
 - Dashboard Preview
-https://github.com/ApekshaPujari/Clipkart-dashboard/blob/main/Power%20Bi%20-%20Dashboard.JPG
+https://github.com/ApekshaPujari/Clipkart-dashboard/blob/main/Power%20Bi%20.png
 
 
