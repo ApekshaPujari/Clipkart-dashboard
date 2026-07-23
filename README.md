@@ -21,29 +21,29 @@ The dashboard was built using the following tools and technologies:
 Dataset: ClipKart E-Commerce Sales Dataset (Educational Dataset)
 
 The dataset contains sales transaction records including:
-Order ID
-Product Name
-Product Category
-Revenue
-Quantity Sold
-City
-Order Date
+1. Order ID
+2. Product Name
+3. Product Category
+4. Revenue
+5. Quantity Sold
+6. City
+7. Order Date
 
 The data represents FY-2026 sales and is used for educational and portfolio purposes to demonstrate Business Intelligence and Data Visualization techniques.
 
 - Features / Highlights - 
-Business Problem
+Business Problem - 
 
 E-commerce businesses process thousands of customer orders, making it difficult to monitor overall sales performance using raw transactional data.
 
 Business stakeholders often need answers to questions such as:
 
-What is the total revenue generated?
-Which products generate the highest revenue?
-Which products sell the most units?
-Which cities contribute the most sales?
-Which product categories perform best?
-How does revenue change over time?
+1. What is the total revenue generated?
+2. Which products generate the highest revenue?
+3. Which products sell the most units?
+4. Which cities contribute the most sales?
+5. Which product categories perform best?
+6. How does revenue change over time?
 
 Without an interactive dashboard, answering these questions requires manual reporting and significant effort.
 
@@ -64,12 +64,12 @@ The goal of this dashboard is to provide an interactive view of ClipKart's FY-20
 - Business Impact & Insights
 
 This dashboard helps businesses:
-Monitor overall sales performance through key KPIs.
-Identify top-performing products and cities.
-Compare revenue across product categories.
-Analyze monthly revenue trends.
-Support inventory planning and marketing decisions.
-Enable faster, data-driven business decisions.
+1. Monitor overall sales performance through key KPIs.
+2. Identify top-performing products and cities.
+3. Compare revenue across product categories.
+4. Analyze monthly revenue trends.
+5. Support inventory planning and marketing decisions.
+6. Enable faster, data-driven business decisions.
 
 - Dashboard Preview
 
