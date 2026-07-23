@@ -32,7 +32,7 @@ The dataset contains sales transaction records including:
 The data represents FY-2026 sales and is used for educational and portfolio purposes to demonstrate Business Intelligence and Data Visualization techniques.
 
 - Features / Highlights - 
-Business Problem - 
+Business Problem
 
 E-commerce businesses process thousands of customer orders, making it difficult to monitor overall sales performance using raw transactional data.
 
