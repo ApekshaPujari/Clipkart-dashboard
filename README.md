@@ -1,13 +1,14 @@
 # Clipkart-dashboard
-ClipKart Analytics: E-Commerce Sales Performance Dashboard
+
+ClipKart Analytics: E-Commerce Sales Performance Dashboard - 
 An interactive Power BI dashboard built to analyze ClipKart's FY-2026 sales performance by tracking revenue, orders, product performance, category contribution, and city-wise sales trends to support business decision-making.
 
-- Short Description / Purpose
+- Short Description / Purpose - 
 The ClipKart Sales Performance Dashboard is an interactive Business Intelligence solution developed in Power BI to analyze and visualize e-commerce sales data. The dashboard provides a centralized view of key business metrics, helping users monitor sales performance, identify top-performing products and cities, analyze category-wise revenue, and understand monthly sales trends.
 
 This dashboard is designed for business managers, sales teams, and decision-makers who need quick access to meaningful insights for strategic planning and operational improvements.
 
-- Tech Stack
+- Tech Stack - 
 The dashboard was built using the following tools and technologies:
 
 1. Power BI Desktop – Main platform used for designing and developing the dashboard.
@@ -16,7 +17,7 @@ The dashboard was built using the following tools and technologies:
 4. Data Modeling – Built relationships between tables to enable accurate calculations and interactive filtering.
 5. Power BI Visualizations – Used KPI Cards, Bar Charts, Donut Chart, Table, Line Chart, and Slicers for data storytelling.
 
-- Data Source
+- Data Source - 
 Dataset: ClipKart E-Commerce Sales Dataset (Educational Dataset)
 
 The dataset contains sales transaction records including:
@@ -30,10 +31,11 @@ Order Date
 
 The data represents FY-2026 sales and is used for educational and portfolio purposes to demonstrate Business Intelligence and Data Visualization techniques.
 
-- Features / Highlights
+- Features / Highlights - 
 Business Problem
 
 E-commerce businesses process thousands of customer orders, making it difficult to monitor overall sales performance using raw transactional data.
+
 Business stakeholders often need answers to questions such as:
 
 What is the total revenue generated?
@@ -45,7 +47,7 @@ How does revenue change over time?
 
 Without an interactive dashboard, answering these questions requires manual reporting and significant effort.
 
-- Goal of the Dashboard
+- Goal of the Dashboard 
 
 The goal of this dashboard is to provide an interactive view of ClipKart's FY-2026 sales performance. It helps stakeholders monitor key business KPIs, identify top-performing products and cities, analyze category-wise revenue, track monthly sales trends, and support data-driven decision-making.
 
@@ -70,6 +72,8 @@ Support inventory planning and marketing decisions.
 Enable faster, data-driven business decisions.
 
 - Dashboard Preview
-https://github.com/ApekshaPujari/Clipkart-dashboard/blob/main/Power%20Bi%20.png
+
+<img width="1178" height="674" alt="Power Bi " src="https://github.com/user-attachments/assets/486a9173-b9e5-464c-bb5e-ca1275373165" />
+
 
 
